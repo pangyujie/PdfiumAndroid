@@ -17,20 +17,20 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'pdfium-android'
 
-    publishedGroupId = 'com.github.barteksc'
+    publishedGroupId = 'com.github.pangyujie'
     libraryName = 'PdfiumAndroid'
     artifact = 'pdfium-android'
 
     libraryDescription = 'Fork of library for rendering PDFs on Android\'s Surface or Bitmap'
 
-    siteUrl = 'https://github.com/barteksc/PdfiumAndroid'
-    gitUrl = 'https://github.com/barteksc/PdfiumAndroid.git'
+    siteUrl = 'https://github.com/pangyujie/PdfiumAndroid'
+    gitUrl = 'https://github.com/pangyujie/PdfiumAndroid.git'
 
     libraryVersion = '1.9.0'
 
-    developerId = 'barteksc'
-    developerName = 'Bartosz Schiller'
-    developerEmail = 'barteksch@boo.pl'
+    developerId = 'pangyujie'
+    developerName = 'Yujie Pang'
+    developerEmail = 'pangyujieh@outlook.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
